@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="your-VK-URL">
-    <img src="https://img.shields.io/badge/VK-blue?logo=https://icons8.ru/icon/8i3hYLFUThPE/vk-comColor=white&style=for-the-badge" alt="VK Badge"/>
+    <img src="https://icons8.ru/icon/t5RmamdlJO1j/vk-com?logo=https://icons8.ru/icon/8i3hYLFUThPE/vk-comColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
  </div>
 
@@ -13,4 +13,16 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+# О себе
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :woman_technologist: About Me :	:hugs:
+
+- :balance_scale: I am a lawyer and work in court 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am fond of python programming 
+- :mailbox:How to reach me: [![ВКонтакте](https://vk.com/id260482652?style=flat&logo=Vk&logoColor=white)](https://icons8.ru/icon/t5RmamdlJO1j/vk-com)
 
