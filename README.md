@@ -26,8 +26,6 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am fond of python programming 
 - :mailbox:How to reach me: [![ВКонтакте](https://vk.com/id260482652?style=flat&logo=https://icons8.ru/icon/13977/vk-comColor=white)](https://vk.com/id260482652)
 
-- :mailbox:How to reach me: [![ВКонтакте](https://icons8.ru/icon/lJrx1KJYmCwV/vk-com?style=flat&logo=Linkedin&logoColor=white)](https://vk.com/id260482652)
-
 ---
 
 ### :fire: My Stats :
