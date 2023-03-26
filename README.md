@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges">
-  <a href="your-VK-URL">
-    <img src="https://icons8.ru/icon/t5RmamdlJO1j/vk-com?logo=https://icons8.ru/icon/8i3hYLFUThPE/vk-comColor=white&style=for-the-badge" alt="VK Badge"/>
+  <a href="https://vk.com/id260482652">
+    <img src="https://icons8.ru/icon/t5RmamdlJO1j/vk-com?logo=https://icons8.ru/icon/8i3hYLFUThPE/vk-comColor=white&style=for-the-badge" alt="ВКонтакте"/>
   </a>
  </div>
 
