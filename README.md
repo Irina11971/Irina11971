@@ -24,5 +24,5 @@
 
 - :balance_scale: I am a lawyer and work in court 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am fond of python programming 
-- :mailbox:How to reach me: [![ВКонтакте](https://vk.com/id260482652?style=flat&logo=Vk&logoColor=white)](https://icons8.ru/icon/t5RmamdlJO1j/vk-com)
+- :mailbox:How to reach me: [![ВКонтакте](https://vk.com/id260482652?style=flat&logo=Vk&logoColor=white)](https://vk.com/id260482652)
 
