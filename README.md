@@ -10,11 +10,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=Irina11971&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  Hi!!!  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
 
-# О себе
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/iJxTue8q0SR2BMFsvA/giphy.gif" width="500" height="400"/>
