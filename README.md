@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Y0DAJ2yGFqzLEt01da/giphy.gif" width="100"/>
+</div>
 
-<!--
-**Irina11971/Irina11971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="your-VK-URL">
+    <img src="https://img.shields.io/badge/VK-blue?logo=https://icons8.ru/icon/8i3hYLFUThPE/vk-comColor=white&style=for-the-badge" alt="VK Badge"/>
+  </a>
+ </div>
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=Irina11971&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
