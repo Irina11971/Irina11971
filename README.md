@@ -11,20 +11,20 @@
 <img src="https://komarev.com/ghpvc/?username=Irina11971&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
 
 # О себе
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iJxTue8q0SR2BMFsvA/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/iJxTue8q0SR2BMFsvA/giphy.gif" width="500" height="400"/>
 </div>
 
 ### :woman_technologist: About Me :	:hugs:
 
 - :balance_scale: I am a lawyer and work in court 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am fond of python programming 
-- :mailbox:How to reach me: [![ВКонтакте](https://vk.com/id260482652?style=flat&logo=https://icons8.ru/icon/13977/vk-comColor=white)](https://vk.com/id260482652)
+- :mailbox: How to reach me: [![ВКонтакте](https://img.shields.io/badge/ВКонтакте-blue?logo=https://icons8.ru/icon/13977/vk-com&logoColor=white)](https://vk.com/id260482652)
 
 ---
 
