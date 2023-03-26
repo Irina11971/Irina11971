@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges">
-  <a href="https://vk.com/id260482652">
-    <img src="https://icons8.ru/icon/t5RmamdlJO1j/vk-com?logo=https://icons8.ru/icon/8i3hYLFUThPE/vk-comColor=white&style=for-the-badge" alt="ВКонтакте"/>
+  <a href="your-ВКонтакте-URL">
+    <img src="https://vk.com/id260482652?logo=https://icons8.ru/icon/13977/vk-comColor=white&style=for-the-badge" alt="ВКонтакте"/>
   </a>
  </div>
 
@@ -24,5 +24,8 @@
 
 - :balance_scale: I am a lawyer and work in court 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am fond of python programming 
-- :mailbox:How to reach me: [![ВКонтакте](https://vk.com/id260482652?style=flat&logo=Vk&logoColor=white)](https://vk.com/id260482652)
+- :mailbox:How to reach me: [![ВКонтакте](https://vk.com/id260482652?style=flat&logo=https://icons8.ru/icon/13977/vk-comColor=white)](https://vk.com/id260482652)
+
+
+
 
